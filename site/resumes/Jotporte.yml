@@ -1,0 +1,74 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Jose Hernan
+    last_name: Portero Viteri
+    motto: Customer services representative
+    avatar: https://i.imgur.com/nMmGkjX.png
+    summary: |
+       I studied design and construction for years, I graduated from Barchelous degree and decided to change my career since in the years of my career I learned through design programs tools such as Autocad, Revit, sketchup, illustrator, photoshop and all these programs made me love the computers and programs, a curiosity to know more about how they are implemented, their internal function even the things that are seen on the screen made me interested and learn more about code and programming, which is something that I am passionate about today!
+    # Sidebar links
+    email: josepor1991@hotmail.com
+    phone: 844888555
+    website: github.com/Jotporte #do not add http://
+    linkedin: jose-hernán-portero-viteri-055458203
+    github: Jotporte
+    twitter: '@JosHernnPViteri'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Bilingual
+
+    interests:
+      - item: Spend time with my family
+      - item: Go to the Gym
+      - item: Cooking
+
+education:
+    - degree: MS in Computer Science
+      university: UCAB
+      time: 2003 - 2009
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+
+experiences:
+    - role: Customer services Representative
+      time: 2022 - Present
+      company: Amazon.com
+      details: |
+        As an Amazon customer service associate, he learned how to prevent problems, resolve queries, and remove customers. I have had to serve customers in both English and Spanish whether by phone, chat or email, this includes everything from orders, deliveries, product questions, to payment issues and website guidance. You learned to use a variety of tools to navigate, research, review solutions, and communicate effectively with internal and external customers and Amazon business partners. I am also responsible for gathering intelligence to prevent potential issues that may affect the customer experience and delivery performance.
+
+          - Bullet point
+          - Bullet point
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
