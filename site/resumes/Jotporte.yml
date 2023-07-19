@@ -35,13 +35,9 @@ basic_info:
       - item: Cooking
 
 education:
-    - degree: MS in Computer Science
-      university: UCAB
-      time: 2003 - 2009
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Full stack 
+      university: 4Geeks academy
+      time: 2023 - Present
 
 experiences:
     - role: Customer services Representative
